@@ -1,5 +1,7 @@
 # CC 宠物系统搜索系统
 
+![Dragon Legendary Companion](dragon.png)
+
 ## 原理
 
 ### 参数来源
